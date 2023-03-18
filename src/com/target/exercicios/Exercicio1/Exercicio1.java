@@ -1,5 +1,5 @@
 package com.target.exercicios.Exercicio1;
-public class App {
+public class Exercicio1 {
     public static void main(String[] args) throws Exception {
         int indice = 13;
         int soma = 0;
